@@ -1,3 +1,9 @@
+"""
+ * Author: Anthony Speicher
+ * Date: 10/27/2025
+ * Description: Snake game in Python using curses
+"""
+
 import curses
 
 # idea for the program: draw grid, use list to keep track of which way the snake is turning
